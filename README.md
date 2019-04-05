@@ -25,13 +25,13 @@
     </tr>
     <tr align="center">
         <td >IEEE/ACM International Symposium on Microarchitecture</td>
-	    <td> <a href="IEEE/ACM International Symposium on Microarchitecture">MICRO </a> </td>
+	<td> <a href="https://www.microarch.org/micro52">MICRO </a> </td>
         <td> <a href="https://dblp.uni-trier.de/db/conf/micro">dblp link</a></td>			  
     </tr>
     <tr align="center">
         <td >International Conference on Parallel Architectures and Compilation Techniques</td>
 	    <td><a href="http://pactconf.org">PACT</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/IEEEpact)">dblp link</a></td>				  
+        <td> <a href="https://dblp.uni-trier.de/db/conf/IEEEpact">dblp link</a></td>				  
     </tr>
     <tr align="center">
         <td >Design, Automation and Test in Europe Conference</td>
@@ -41,17 +41,17 @@
     <tr align="center">
         <td >Design Automation Conference</td>
 	    <td><a href="https://www.dac.com">DAC</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/dac)">dblplink</a></td>			  
+        <td> <a href="https://dblp.uni-trier.de/db/conf/dac">dblplink</a></td>			  
     </tr>
     <tr align="center">
         <td >IEEE International Conference on Computer Design</td>
 	    <td><a href="https://www.iccd-conf.com">ICCD</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/iccd)">dblp link</a></td>		
+        <td> <a href="https://dblp.uni-trier.de/db/conf/iccd">dblp link</a></td>		
     <tr align="center">
         <td rowspan="2">Storage</td>    
         <td >USENIX Conference on File and Storage Technologies</td>
 	    <td><a href="https://www.usenix.org/conference/fast19">FAST</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/fast)">dblp link</a></td>			  
+        <td> <a href="https://dblp.uni-trier.de/db/conf/fast">dblp link</a></td>			  
     </tr>
     <tr align="center">
         <td >International Conference on Massive Storage Systems and Technology</td>
@@ -67,7 +67,7 @@
     <tr align="center">
         <td >USENIX Symposium on Operating Systems Design and Implementation</td>
 	    <td><a href="https://www.usenix.org/conference/osdi18">OSDI'18</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/osdi)">dblp link</a></td>			  
+        <td> <a href="https://dblp.uni-trier.de/db/conf/osdi">dblp link</a></td>			  
     </tr>
     <tr align="center">
         <td >USENIX Annual Technical Conference</td>
@@ -77,18 +77,18 @@
     <tr align="center">
         <td >European Conference on Computer Systems/ EuroSys</td>
 	    <td><a href="http://eurosys2019.org">EuroSys</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/eurosys)">dblp link</a></td>				  
+        <td> <a href="https://dblp.uni-trier.de/db/conf/eurosys">dblp link</a></td>				  
     </tr>
     <tr align="center">
         <td rowspan="7">Others</td>    
         <td >USENIX Symposium on Networked Systems Design and Implementation</td>
 	    <td><a href="https://www.usenix.org/conference/nsdi19">NSDI</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/nsdi)">dblp link</a></td>			  
+        <td> <a href="https://dblp.uni-trier.de/db/conf/nsdi">dblp link</a></td>			  
     </tr>
     <tr align="center">
         <td >Principles and Practice of Parallel Programming</td>
 	    <td><a href="https://ppopp18.sigplan.org">PPoPP</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/ppopp)">dblp link</a></td>		
+        <td> <a href="https://dblp.uni-trier.de/db/conf/ppopp">dblp link</a></td>		
     </tr>
     <tr align="center">
         <td >The International Conference for High Performance Computing, Networking, Storage, and Analysis</td>
@@ -108,12 +108,12 @@
     <tr align="center">
         <td >ACM Symposium on Cloud Computing</td>
 	    <td><a href="https://acmsocc.github.io/2019">SOCC</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/cloud)">dblp link</a></td>		  
+        <td> <a href="https://dblp.uni-trier.de/db/conf/cloud">dblp link</a></td>		  
     </tr>
     <tr align="center">
         <td >International Conference on Parallel Processing</td>
 	    <td><a href="https://www.hpcs.cs.tsukuba.ac.jp/icpp2019">ICPP</a></td>
-        <td> <a href="https://dblp.uni-trier.de/db/conf/icpp)">dblp link</a></td>		  
+        <td> <a href="https://dblp.uni-trier.de/db/conf/icpp">dblp link</a></td>		  
     </tr>
 </table>
 
